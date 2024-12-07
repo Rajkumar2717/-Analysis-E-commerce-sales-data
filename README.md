@@ -6,12 +6,10 @@ Analyzed E-commerce sales data by developing interactive Power BI dashboards to 
 
 
 🛠️ Technologies Used:
+
 • Power BI
-
 • Data Modeling
-
 • DAX (Data Analysis Expressions)
-
 • Data Visualization
 
 
