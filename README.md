@@ -4,6 +4,7 @@
 Analyzed E-commerce sales data by developing interactive Power BI dashboards to uncover insights and enhance decision-making. Implemented drill-down capabilities and customized user experience using dynamic filters and slicers, allowing for detailed data exploration.
 
 
+
 🛠️ Technologies Used:
 • Power BI
 
@@ -14,7 +15,9 @@ Analyzed E-commerce sales data by developing interactive Power BI dashboards to 
 • Data Visualization
 
 
+
 📊 Key Achievements:
+
 • Designed complex parameters to facilitate drill-down analysis in worksheets, enabling detailed insights into sales trends.
 
 • Utilized advanced filters and slicers to provide a customized, user-driven data exploration experience.
